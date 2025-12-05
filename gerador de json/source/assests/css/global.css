@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(rgb(165, 165, 165),rgb(250, 248, 248));
+}
+
+:root {
+    --icon-color-blue: #0044ff;
+    --box-shadow: #a1a1a1;
+}
