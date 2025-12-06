@@ -8,9 +8,12 @@
 body {
     height: 100vh;
     background: linear-gradient(rgb(165, 165, 165),rgb(250, 248, 248));
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 :root {
-    --icon-color-blue: #0044ff;
-    --box-shadow: #a1a1a1;
+    --icon-color-blue: #3d70fc;
+    --box-shadow: rgb(151, 151, 151);
 }
